@@ -16,6 +16,8 @@ export default function Home() {
         <h1 className={styles.title}>
           jeremel studio 2022 - coming soon
         </h1>
+        <h2>South Jersey based website design and development</h2>
+        <p>custom websites that fit any budget</p>
       </main>
 
       <footer className={styles.footer}>
